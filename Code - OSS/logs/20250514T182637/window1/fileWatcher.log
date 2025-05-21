@@ -1,2 +1,0 @@
-2025-05-14 18:27:04.373 [error] [File Watcher] Unexpected error: inotify_add_watch on '/home/m4cren/.config/Code - OSS/logs/20250514T010915' failed: No such file or directory (EUNKNOWN) (path: /home)
-2025-05-14 18:27:04.373 [error] [File Watcher (universal)] inotify_add_watch on '/home/m4cren/.config/Code - OSS/logs/20250514T010915' failed: No such file or directory

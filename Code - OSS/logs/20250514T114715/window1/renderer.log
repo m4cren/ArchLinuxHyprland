@@ -1,6 +1,0 @@
-2025-05-14 11:47:17.077 [info] Started local extension host with pid 5507.
-2025-05-14 11:47:17.178 [info] ComputeTargetPlatform: linux-x64
-2025-05-14 11:47:21.947 [error] [File Watcher] Unexpected error: inotify_add_watch on '/home/m4cren/webDev/MetaFeast/.git/.gitstatus.HpMomN/a' failed: No such file or directory (EUNKNOWN) (path: /home/m4cren/webDev/MetaFeast)
-2025-05-14 11:47:21.948 [error] [File Watcher (universal)] inotify_add_watch on '/home/m4cren/webDev/MetaFeast/.git/.gitstatus.HpMomN/a' failed: No such file or directory
-2025-05-14 11:47:21.974 [info] [perf] Render performance baseline is 132ms
-2025-05-14 11:51:45.048 [warning] [backup tracker] suspended, ignoring unregister event file:///home/m4cren/webDev/MetaFeast/client/package.json 

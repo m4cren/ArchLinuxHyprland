@@ -1,6 +1,0 @@
-2025-05-14 19:45:35.243 [info] Started local extension host with pid 3812.
-2025-05-14 19:45:35.279 [info] ComputeTargetPlatform: linux-x64
-2025-05-14 19:45:37.929 [info] [perf] Render performance baseline is 28ms
-2025-05-14 19:45:58.947 [error] [File Watcher] Unexpected error: inotify_add_watch on '/home/m4cren/.config/Code - OSS/logs/20250514T014312/window1/exthost/vscode.github' failed: No such file or directory (EUNKNOWN) (path: /home)
-2025-05-14 19:45:58.947 [error] [File Watcher (universal)] inotify_add_watch on '/home/m4cren/.config/Code - OSS/logs/20250514T014312/window1/exthost/vscode.github' failed: No such file or directory
-2025-05-14 19:49:08.189 [error] lock() request could not be registered.: InvalidStateError: lock() request could not be registered.

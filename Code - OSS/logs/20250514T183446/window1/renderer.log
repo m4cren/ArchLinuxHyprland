@@ -1,6 +1,0 @@
-2025-05-14 18:34:47.759 [info] Started local extension host with pid 25853.
-2025-05-14 18:34:47.897 [info] ComputeTargetPlatform: linux-x64
-2025-05-14 18:34:48.728 [error] lock() request could not be registered.: InvalidStateError: lock() request could not be registered.
-2025-05-14 18:34:50.582 [info] [perf] Render performance baseline is 47ms
-2025-05-14 18:35:12.235 [error] [File Watcher] Unexpected error: inotify_add_watch on '/home/m4cren/.config/Code - OSS/logs/20250514T012512' failed: No such file or directory (EUNKNOWN) (path: /home)
-2025-05-14 18:35:12.235 [error] [File Watcher (universal)] inotify_add_watch on '/home/m4cren/.config/Code - OSS/logs/20250514T012512' failed: No such file or directory

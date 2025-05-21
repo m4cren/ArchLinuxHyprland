@@ -1,0 +1,16 @@
+2025-05-20 23:37:48.139 [info] Revived process, old id 79acb266c39fb2e91e5be7a7a9f36502-1 -> new id 1
+2025-05-20 23:37:48.139 [info] Revived process, old id 79acb266c39fb2e91e5be7a7a9f36502-2 -> new id 2
+2025-05-20 23:37:48.139 [info] Revived process, old id 79acb266c39fb2e91e5be7a7a9f36502-3 -> new id 3
+2025-05-20 23:37:48.595 [info] Expanding terminal instance, old id 79acb266c39fb2e91e5be7a7a9f36502-1 -> new id 1
+2025-05-20 23:37:48.595 [info] Expanding terminal instance, old id 79acb266c39fb2e91e5be7a7a9f36502-2 -> new id 2
+2025-05-20 23:37:48.595 [info] Expanding terminal instance, old id 79acb266c39fb2e91e5be7a7a9f36502-3 -> new id 3
+2025-05-20 23:37:49.337 [warning] Persistent process "1": Process had no disconnect runners but was an orphan
+2025-05-20 23:37:49.337 [info] Persistent process reconnection "1"
+2025-05-20 23:37:49.337 [warning] Persistent process "2": Process had no disconnect runners but was an orphan
+2025-05-20 23:37:49.337 [info] Persistent process reconnection "2"
+2025-05-20 23:37:49.337 [warning] Persistent process "3": Process had no disconnect runners but was an orphan
+2025-05-20 23:37:49.337 [info] Persistent process reconnection "3"
+2025-05-20 23:37:49.440 [error] Failed to set sticky bit on /tmp/m4cren-code-zsh: Error: ENOENT: no such file or directory, chmod '/tmp/m4cren-code-zsh'
+2025-05-20 23:37:49.480 [info] Persistent process "1": Replaying 7226 chars and 1 size events
+2025-05-20 23:37:49.610 [info] Persistent process "2": Replaying 3335 chars and 1 size events
+2025-05-20 23:37:49.629 [info] Persistent process "3": Replaying 3253 chars and 1 size events

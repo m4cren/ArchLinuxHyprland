@@ -1,0 +1,34 @@
+2025-05-20 23:37:55.094 [info] [main] Log level: Info
+2025-05-20 23:37:55.094 [info] [main] Validating found git in: "git"
+2025-05-20 23:37:55.094 [info] [main] Using git "2.49.0" from "git"
+2025-05-20 23:37:55.094 [info] [Model][doInitialScan] Initial repository scan started
+2025-05-20 23:37:55.094 [info] > git rev-parse --show-toplevel [43ms]
+2025-05-20 23:37:55.094 [info] > git rev-parse --git-dir --git-common-dir [7ms]
+2025-05-20 23:37:55.094 [info] [Model][openRepository] Opened repository (path): /home/m4cren/webDev/GameHub
+2025-05-20 23:37:55.094 [info] [Model][openRepository] Opened repository (real path): /home/m4cren/webDev/GameHub
+2025-05-20 23:37:55.094 [info] > git rev-parse --show-toplevel [63ms]
+2025-05-20 23:37:55.094 [info] > git config --get commit.template [75ms]
+2025-05-20 23:37:55.101 [info] > git rev-parse --show-toplevel [276ms]
+2025-05-20 23:37:55.252 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [159ms]
+2025-05-20 23:37:55.276 [info] > git rev-parse --show-toplevel [28ms]
+2025-05-20 23:37:55.280 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-05-20 23:37:55.304 [info] > git show --textconv :client/src/layout/MainLayout.tsx [15ms]
+2025-05-20 23:37:55.304 [info] > git ls-files --stage -- client/src/layout/MainLayout.tsx [5ms]
+2025-05-20 23:37:55.335 [info] > git cat-file -s bf65b6e26428bb825db265779884bf56f54fded1 [21ms]
+2025-05-20 23:37:55.435 [info] > git status -z -uall [84ms]
+2025-05-20 23:37:55.436 [info] > git check-ignore -v -z --stdin [20ms]
+2025-05-20 23:37:55.437 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [71ms]
+2025-05-20 23:37:55.484 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [30ms]
+2025-05-20 23:37:55.511 [info] > git config --get --local branch.main.vscode-merge-base [14ms]
+2025-05-20 23:37:55.511 [warning] [Git][config] git config failed: Failed to execute git
+2025-05-20 23:37:55.520 [info] > git config --get commit.template [43ms]
+2025-05-20 23:37:55.541 [info] > git reflog main --grep-reflog=branch: Created from *. [22ms]
+2025-05-20 23:37:55.559 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [20ms]
+2025-05-20 23:37:55.580 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [25ms]
+2025-05-20 23:37:55.580 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2025-05-20 23:37:55.580 [warning] [Repository][getDefaultBranch] Failed to get default branch details: Failed to execute git.
+2025-05-20 23:37:55.608 [info] > git merge-base refs/heads/main refs/remotes/origin/main [18ms]
+2025-05-20 23:37:55.616 [info] > git blame --root --incremental 0c3eebd209537eddeb0bd24b957d1920031601ce -- client/src/layout/MainLayout.tsx [36ms]
+2025-05-20 23:37:55.622 [info] > git diff --name-status -z --diff-filter=ADMR 0c3eebd209537eddeb0bd24b957d1920031601ce...refs/remotes/origin/main [6ms]
+2025-05-20 23:37:55.673 [info] > git status -z -uall [20ms]
+2025-05-20 23:37:55.673 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [13ms]

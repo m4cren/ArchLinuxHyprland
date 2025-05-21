@@ -1,0 +1,19 @@
+{
+  "editor.fontFamily": "Cascadia Code",
+  "explorer.confirmDragAndDrop": false,
+  "chat.agent.enabled": false,
+  "telemetry.feedback.enabled": false,
+  "tailwind-fold.autoFold": false,
+  "workbench.editor.empty.hint": "hidden",
+  "explorer.confirmDelete": false,
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.tree.indent": 12,
+
+  "editor.minimap.enabled": false,
+  "editor.fontSize": 15
+}

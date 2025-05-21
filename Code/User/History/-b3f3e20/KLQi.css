@@ -1,0 +1,29 @@
+.main {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 6rem 1fr;
+    grid-template-areas:
+        "   nav     "
+        "   main    ";
+
+    @media (min-width: 810px) {
+        grid-template-columns: 22rem 1fr;
+        grid-template-rows: 8rem;
+        grid-template-areas:
+            "   nav     nav"
+            "   aside   main    ";
+    }
+}
+nav {
+    grid-area: nav;
+}
+aside {
+    grid-area: aside;
+    display: none;
+    @media (min-width: 810px) {
+        display: block;
+    }
+}
+main {
+    grid-area: main;
+}

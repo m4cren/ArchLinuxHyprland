@@ -1,0 +1,6 @@
+2025-05-20 23:36:21.878 [info] Started local extension host with pid 2452.
+2025-05-20 23:36:22.101 [info] ComputeTargetPlatform: linux-x64
+2025-05-20 23:36:22.106 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-05-20 23:36:23.835 [info] Settings Sync: Token updated for the account m4cren
+2025-05-20 23:36:23.877 [info] Settings Sync: Account status changed from uninitialized to available
+2025-05-20 23:36:25.369 [info] [perf] Render performance baseline is 117ms

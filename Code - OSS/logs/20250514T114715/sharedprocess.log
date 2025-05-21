@@ -1,0 +1,4 @@
+2025-05-14 11:47:17.697 [info] ComputeTargetPlatform: linux-x64
+2025-05-14 11:48:25.429 [info] ComputeTargetPlatform: linux-x64
+2025-05-14 11:48:33.221 [info] Getting Manifest... yy0931.vscode-sqlite3-editor
+2025-05-14 11:48:37.949 [info] Installing extension: yy0931.vscode-sqlite3-editor {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":true,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/m4cren/.vscode-oss/extensions/extensions.json","path":"/home/m4cren/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.100.0","date":"2025-05-08T19:22:17.785Z"}}

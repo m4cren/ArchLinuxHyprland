@@ -1,0 +1,9 @@
+2025-05-21 12:32:35.683 [info] ComputeTargetPlatform: linux-x64
+2025-05-21 12:32:40.463 [info] ComputeTargetPlatform: linux-x64
+2025-05-21 12:32:42.825 [info] Getting Manifest... bradlc.vscode-tailwindcss
+2025-05-21 12:32:42.916 [info] Installing extension: bradlc.vscode-tailwindcss {"productVersion":{"version":"1.100.2","date":"2025-05-14T21:47:40.416Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/m4cren/.vscode/extensions/extensions.json","path":"/home/m4cren/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-05-21 12:32:45.612 [info] Extension signature verification result for bradlc.vscode-tailwindcss: Success. Internal Code: 0. Executed: true. Duration: 1786ms.
+2025-05-21 12:32:45.768 [info] Extracted extension to file:///home/m4cren/.vscode/extensions/bradlc.vscode-tailwindcss-0.14.18: bradlc.vscode-tailwindcss
+2025-05-21 12:32:45.776 [info] Renamed to /home/m4cren/.vscode/extensions/bradlc.vscode-tailwindcss-0.14.18
+2025-05-21 12:32:45.803 [info] Marked extension as removed bradlc.vscode-tailwindcss-0.14.17
+2025-05-21 12:32:45.810 [info] Extension installed successfully: bradlc.vscode-tailwindcss vscode-userdata:/home/m4cren/.vscode/extensions/extensions.json

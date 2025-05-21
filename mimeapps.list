@@ -1,0 +1,6 @@
+[Default Applications]
+inode/directory=Thunar.desktop
+image/jpeg=org.inkscape.Inkscape.desktop
+
+[Added Associations]
+image/jpeg=org.inkscape.Inkscape.desktop;

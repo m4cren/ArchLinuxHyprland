@@ -1,0 +1,8 @@
+{
+    "editor.fontFamily": "Cascadia Code",
+    "explorer.confirmDragAndDrop": false,
+    "chat.agent.enabled": false,
+    "telemetry.feedback.enabled": false,
+    "editor.fontSize": 16,
+    "tailwind-fold.autoFold": false
+}

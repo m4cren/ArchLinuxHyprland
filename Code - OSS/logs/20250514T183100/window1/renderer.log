@@ -1,0 +1,17 @@
+2025-05-14 18:31:01.572 [info] Started local extension host with pid 24178.
+2025-05-14 18:31:01.654 [info] ComputeTargetPlatform: linux-x64
+2025-05-14 18:31:04.176 [info] [perf] Render performance baseline is 24ms
+2025-05-14 18:31:05.655 [error] lock() request could not be registered.: InvalidStateError: lock() request could not be registered.
+2025-05-14 18:31:26.800 [error] [File Watcher] Unexpected error: inotify_add_watch on '/home/m4cren/.config/Code - OSS/logs/20250514T010942/window1/exthost' failed: No such file or directory (EUNKNOWN) (path: /home)
+2025-05-14 18:31:26.800 [error] [File Watcher (universal)] inotify_add_watch on '/home/m4cren/.config/Code - OSS/logs/20250514T010942/window1/exthost' failed: No such file or directory
+2025-05-14 18:32:49.049 [error] Error: The editor could not be opened because the file was not found.
+    at ySe.gc (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2163:120185)
+    at async ySe.setInput (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2163:119343)
+    at async XHe.S (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:685:19756)
+    at async XHe.L (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:685:18311)
+    at async XHe.openEditor (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:685:17393)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:797:23342
+    at async uKe.M (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1807:29729)
+    at async uKe.openCodeEditor (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1807:20948)
+    at async KXe.open (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1869:634)
+    at async JXe.open (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1869:1689)

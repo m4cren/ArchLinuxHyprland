@@ -1,0 +1,267 @@
+2025-05-22 01:39:30.621 [info] Extension host with pid 7209 started
+2025-05-22 01:39:30.621 [info] Skipping acquiring lock for /home/m4cren/.config/Code/User/workspaceStorage/4b95c4efdd35bf174aa3e1a3fed0e972.
+2025-05-22 01:39:30.920 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-05-22 01:39:30.953 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-05-22 01:39:31.139 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-05-22 01:39:31.161 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-05-22 01:39:31.236 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-05-22 01:39:31.386 [info] Eager extensions activated
+2025-05-22 01:39:31.457 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-05-22 01:39:31.460 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-05-22 01:39:31.484 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2025-05-22 01:39:31.532 [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+2025-05-22 01:39:32.103 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-05-22 01:39:32.239 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-05-22 01:39:32.279 [info] ExtensionService#_doActivateExtension stivo.tailwind-fold, startup: false, activationEvent: 'onStartupFinished'
+2025-05-22 01:39:32.285 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2025-05-22 01:39:32.303 [info] ExtensionService#_doActivateExtension yy0931.vscode-sqlite3-editor, startup: false, activationEvent: 'onStartupFinished'
+2025-05-22 01:39:32.617 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-22 01:39:32.627 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-22 01:39:32.717 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-22 01:39:52.858 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2025-05-22 01:43:09.429 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5616
+2025-05-22 01:43:10.242 [error] Error: Git error
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:601154)
+	at ChildProcess.emit (node:events:536:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-22 01:43:10.242 [error] Error: Git error
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:601154)
+	at ChildProcess.emit (node:events:536:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-22 01:43:10.242 [error] Error: Git error
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:601154)
+	at ChildProcess.emit (node:events:536:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-22 01:43:10.242 [error] Error: Git error
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:601154)
+	at ChildProcess.emit (node:events:536:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-22 01:43:10.242 [error] Error: Git error
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:601154)
+	at ChildProcess.emit (node:events:536:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-22 01:43:10.242 [error] Error: Git error
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:601154)
+	at ChildProcess.emit (node:events:536:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-22 01:43:10.242 [error] Error: Git error
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:601154)
+	at ChildProcess.emit (node:events:536:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-22 01:43:10.242 [error] Error: Git error
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:601154)
+	at ChildProcess.emit (node:events:536:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-22 01:43:10.242 [error] Error: Git error
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:601154)
+	at ChildProcess.emit (node:events:536:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-22 01:43:10.242 [error] Error: Git error
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:601154)
+	at ChildProcess.emit (node:events:536:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-22 01:43:10.242 [error] Error: Git error
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:601154)
+	at ChildProcess.emit (node:events:536:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-22 01:43:10.242 [error] Error: Git error
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:601154)
+	at ChildProcess.emit (node:events:536:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-22 01:43:10.242 [error] Error: Git error
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:601154)
+	at ChildProcess.emit (node:events:536:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-22 01:43:10.242 [error] Error: Git error
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:601154)
+	at ChildProcess.emit (node:events:536:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-22 01:43:10.242 [error] Error: Git error
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:601154)
+	at ChildProcess.emit (node:events:536:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-22 01:43:10.242 [error] Error: Git error
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:601154)
+	at ChildProcess.emit (node:events:536:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-22 01:43:10.242 [error] Error: Git error
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:601154)
+	at ChildProcess.emit (node:events:536:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-22 01:43:10.242 [error] Error: Git error
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:601154)
+	at ChildProcess.emit (node:events:536:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-22 01:43:10.242 [error] Error: Git error
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:601154)
+	at ChildProcess.emit (node:events:536:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-22 01:43:10.242 [error] Error: Git error
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:601154)
+	at ChildProcess.emit (node:events:536:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-22 01:43:10.242 [error] Error: Git error
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:601154)
+	at ChildProcess.emit (node:events:536:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-22 01:43:10.242 [error] Error: Git error
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:601154)
+	at ChildProcess.emit (node:events:536:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-22 01:43:10.242 [error] Error: Git error
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:601154)
+	at ChildProcess.emit (node:events:536:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-22 01:43:10.242 [error] Error: Git error
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:601154)
+	at ChildProcess.emit (node:events:536:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-22 01:43:10.242 [error] Error: Git error
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:601154)
+	at ChildProcess.emit (node:events:536:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-22 01:43:10.242 [error] Error: Git error
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:601154)
+	at ChildProcess.emit (node:events:536:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-22 01:43:10.242 [error] Error: Git error
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:601154)
+	at ChildProcess.emit (node:events:536:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-22 01:43:10.242 [error] Error: Git error
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:601154)
+	at ChildProcess.emit (node:events:536:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-22 01:43:10.242 [error] Error: Git error
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:601154)
+	at ChildProcess.emit (node:events:536:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-22 01:43:10.501 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5616
+2025-05-22 01:43:11.247 [error] Error: Git error
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:601154)
+	at ChildProcess.emit (node:events:536:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-22 01:43:11.259 [error] Error: Git error
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:601154)
+	at ChildProcess.emit (node:events:536:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-22 01:43:11.271 [error] Error: Git error
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:601154)
+	at ChildProcess.emit (node:events:536:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-22 01:43:11.279 [error] Error: Git error
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:601154)
+	at ChildProcess.emit (node:events:536:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-22 01:43:11.280 [error] Error: Git error
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:601154)
+	at ChildProcess.emit (node:events:536:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-22 01:43:11.288 [error] Error: Git error
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:601154)
+	at ChildProcess.emit (node:events:536:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-22 01:43:11.289 [error] Error: Git error
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:601154)
+	at ChildProcess.emit (node:events:536:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-22 01:43:11.305 [error] Error: Git error
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:601154)
+	at ChildProcess.emit (node:events:536:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-22 01:43:11.306 [error] Error: Git error
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:601154)
+	at ChildProcess.emit (node:events:536:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-22 01:43:11.307 [error] Error: Git error
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:601154)
+	at ChildProcess.emit (node:events:536:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-22 01:43:11.307 [error] Error: Git error
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:601154)
+	at ChildProcess.emit (node:events:536:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-22 01:43:11.323 [error] Error: Git error
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:601154)
+	at ChildProcess.emit (node:events:536:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-22 01:43:11.334 [error] Error: Git error
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:601154)
+	at ChildProcess.emit (node:events:536:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-22 01:43:11.335 [error] Error: Git error
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:601154)
+	at ChildProcess.emit (node:events:536:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-22 01:43:11.335 [error] Error: Git error
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:601154)
+	at ChildProcess.emit (node:events:536:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-22 01:43:11.336 [error] Error: Git error
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:601154)
+	at ChildProcess.emit (node:events:536:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-22 01:43:11.349 [error] Error: Git error
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:601154)
+	at ChildProcess.emit (node:events:536:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-22 01:43:11.350 [error] Error: Git error
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:601154)
+	at ChildProcess.emit (node:events:536:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-22 01:43:11.350 [error] Error: Git error
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:601154)
+	at ChildProcess.emit (node:events:536:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-22 01:43:11.351 [error] Error: Git error
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:601154)
+	at ChildProcess.emit (node:events:536:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-22 01:43:11.351 [error] Error: Git error
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:601154)
+	at ChildProcess.emit (node:events:536:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-22 01:43:11.357 [error] Error: Git error
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:601154)
+	at ChildProcess.emit (node:events:536:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-22 01:43:11.358 [error] Error: Git error
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:601154)
+	at ChildProcess.emit (node:events:536:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-22 01:43:11.359 [error] Error: Git error
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:601154)
+	at ChildProcess.emit (node:events:536:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-22 01:43:11.365 [error] Error: Git error
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:601154)
+	at ChildProcess.emit (node:events:536:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-22 01:43:11.366 [error] Error: Git error
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:601154)
+	at ChildProcess.emit (node:events:536:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-22 01:43:11.368 [error] Error: Git error
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:601154)
+	at ChildProcess.emit (node:events:536:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-22 01:43:11.369 [error] Error: Git error
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:601154)
+	at ChildProcess.emit (node:events:536:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-22 01:43:11.370 [error] Error: Git error
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:601154)
+	at ChildProcess.emit (node:events:536:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-22 01:43:12.919 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5616
+2025-05-22 01:43:18.194 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5616
+2025-05-22 01:43:23.567 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5616
+2025-05-22 01:43:28.907 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5616
+2025-05-22 01:43:46.409 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5616
+2025-05-22 01:43:51.655 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5616
+2025-05-22 01:43:57.016 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5616
+2025-05-22 01:44:02.318 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5616
+2025-05-22 01:44:07.581 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5616
+2025-05-22 01:44:12.864 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5616
+2025-05-22 01:44:18.233 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5616
+2025-05-22 01:44:23.799 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5616

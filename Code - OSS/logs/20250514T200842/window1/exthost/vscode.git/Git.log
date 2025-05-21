@@ -1,0 +1,43 @@
+2025-05-14 20:08:46.000 [info] [main] Log level: Info
+2025-05-14 20:08:46.000 [info] [main] Validating found git in: "git"
+2025-05-14 20:08:46.000 [info] [main] Using git "2.49.0" from "git"
+2025-05-14 20:08:46.000 [info] [Model][doInitialScan] Initial repository scan started
+2025-05-14 20:08:46.000 [info] > git rev-parse --show-toplevel [9ms]
+2025-05-14 20:08:46.000 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2025-05-14 20:08:46.000 [info] [Model][openRepository] Opened repository (path): /home/m4cren/webDev/MetaFeast
+2025-05-14 20:08:46.000 [info] [Model][openRepository] Opened repository (real path): /home/m4cren/webDev/MetaFeast
+2025-05-14 20:08:46.001 [info] > git rev-parse --show-toplevel [3ms]
+2025-05-14 20:08:46.002 [info] > git config --get commit.template [11ms]
+2025-05-14 20:08:46.064 [info] > git rev-parse --show-toplevel [19ms]
+2025-05-14 20:08:46.082 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [20ms]
+2025-05-14 20:08:46.092 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/m4cren/webDev/MetaFeast/.git/refs/remotes/origin/main'
+2025-05-14 20:08:46.093 [info] > git rev-parse --show-toplevel [12ms]
+2025-05-14 20:08:46.100 [info] > git rev-parse refs/remotes/origin/main [8ms]
+2025-05-14 20:08:46.127 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [4ms]
+2025-05-14 20:08:46.128 [info] > git rev-parse --show-toplevel [28ms]
+2025-05-14 20:08:46.145 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-14 20:08:46.146 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-05-14 20:08:46.358 [info] > git show --textconv :server/backend/__init__.py [16ms]
+2025-05-14 20:08:46.364 [info] > git ls-files --stage -- server/backend/__init__.py [7ms]
+2025-05-14 20:08:46.375 [info] > git cat-file -s ab66016f92ace0c24032c8d017146fef7989cff0 [3ms]
+2025-05-14 20:08:46.451 [info] > git blame --root --incremental 4392efc3221defcb76f87ce64fbbde73b8f2982a -- server/backend/__init__.py [21ms]
+2025-05-14 20:08:46.983 [info] > git check-ignore -v -z --stdin [430ms]
+2025-05-14 20:08:48.025 [info] > git status -z -uall [1918ms]
+2025-05-14 20:08:48.067 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [10ms]
+2025-05-14 20:08:48.074 [info] > git config --get --local branch.main.vscode-merge-base [1ms]
+2025-05-14 20:08:48.079 [info] > git config --get commit.template [12ms]
+2025-05-14 20:08:48.080 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [2ms]
+2025-05-14 20:08:48.117 [info] > git merge-base refs/heads/main refs/remotes/origin/main [31ms]
+2025-05-14 20:08:48.124 [info] > git diff --name-status -z --diff-filter=ADMR 4392efc3221defcb76f87ce64fbbde73b8f2982a...refs/remotes/origin/main [3ms]
+2025-05-14 20:08:48.125 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [9ms]
+2025-05-14 20:08:48.131 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/m4cren/webDev/MetaFeast/.git/refs/remotes/origin/main'
+2025-05-14 20:08:48.136 [info] > git rev-parse refs/remotes/origin/main [6ms]
+2025-05-14 20:08:48.152 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-05-14 20:08:48.871 [info] > git status -z -uall [730ms]
+2025-05-14 20:08:54.882 [info] > git check-ignore -v -z --stdin [4ms]
+2025-05-14 20:11:10.429 [info] > git show --textconv :server/backend/__init__.py [35ms]
+2025-05-14 20:11:10.439 [info] > git ls-files --stage -- server/backend/__init__.py [11ms]
+2025-05-14 20:11:10.464 [info] > git cat-file -s ab66016f92ace0c24032c8d017146fef7989cff0 [8ms]
+2025-05-14 20:11:13.125 [info] > git show --textconv :server/backend/__init__.py [6ms]
+2025-05-14 20:11:13.126 [info] > git ls-files --stage -- server/backend/__init__.py [2ms]
+2025-05-14 20:11:13.132 [info] > git cat-file -s ab66016f92ace0c24032c8d017146fef7989cff0 [1ms]

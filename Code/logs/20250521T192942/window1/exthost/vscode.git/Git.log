@@ -1,0 +1,51 @@
+2025-05-21 19:29:52.239 [info] [main] Log level: Info
+2025-05-21 19:29:52.239 [info] [main] Validating found git in: "git"
+2025-05-21 19:29:52.239 [info] [main] Using git "2.49.0" from "git"
+2025-05-21 19:29:52.239 [info] [Model][doInitialScan] Initial repository scan started
+2025-05-21 19:29:52.239 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-21 19:29:52.239 [info] > git rev-parse --git-dir --git-common-dir [5ms]
+2025-05-21 19:29:52.239 [info] [Model][openRepository] Opened repository (path): /home/m4cren/webDev/GameHub
+2025-05-21 19:29:52.239 [info] [Model][openRepository] Opened repository (real path): /home/m4cren/webDev/GameHub
+2025-05-21 19:29:52.239 [info] > git rev-parse --show-toplevel [236ms]
+2025-05-21 19:29:52.239 [info] > git config --get commit.template [279ms]
+2025-05-21 19:29:52.239 [info] > git rev-parse --show-toplevel [1858ms]
+2025-05-21 19:29:52.239 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [297ms]
+2025-05-21 19:29:52.239 [info] > git check-ignore -v -z --stdin [415ms]
+2025-05-21 19:29:52.239 [info] > git rev-parse --show-toplevel [157ms]
+2025-05-21 19:29:52.239 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-05-21 19:29:52.239 [info] > git show --textconv :client/src/components/aside/CategoryList.tsx [68ms]
+2025-05-21 19:29:52.239 [info] > git ls-files --stage -- client/src/components/aside/CategoryList.tsx [60ms]
+2025-05-21 19:29:52.239 [info] > git hash-object -t tree /dev/null [12ms]
+2025-05-21 19:29:52.239 [warning] [GitFileSystemProvider][stat] File not found - git:/home/m4cren/webDev/GameHub/client/src/components/aside/CategoryList.tsx.git?%7B%22path%22%3A%22%2Fhome%2Fm4cren%2FwebDev%2FGameHub%2Fclient%2Fsrc%2Fcomponents%2Faside%2FCategoryList.tsx%22%2C%22ref%22%3A%22%22%7D
+2025-05-21 19:29:52.241 [info] > git status -z -uall [17ms]
+2025-05-21 19:29:52.241 [info] > git hash-object -t tree /dev/null [34ms]
+2025-05-21 19:29:52.242 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/m4cren/webDev/GameHub/client/src/components/aside/CategoryList.tsx.git?%7B%22path%22%3A%22%2Fhome%2Fm4cren%2FwebDev%2FGameHub%2Fclient%2Fsrc%2Fcomponents%2Faside%2FCategoryList.tsx%22%2C%22ref%22%3A%22%22%7D
+2025-05-21 19:29:52.373 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [136ms]
+2025-05-21 19:29:52.490 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [86ms]
+2025-05-21 19:29:52.558 [info] > git config --get --local branch.main.vscode-merge-base [39ms]
+2025-05-21 19:29:52.558 [warning] [Git][config] git config failed: Failed to execute git
+2025-05-21 19:29:52.587 [info] > git config --get commit.template [105ms]
+2025-05-21 19:29:52.631 [info] > git reflog main --grep-reflog=branch: Created from *. [44ms]
+2025-05-21 19:29:52.655 [info] > git blame --root --incremental 0c3eebd209537eddeb0bd24b957d1920031601ce -- client/src/components/aside/CategoryList.tsx [26ms]
+2025-05-21 19:29:52.655 [info] fatal: no such path client/src/components/aside/CategoryList.tsx in 0c3eebd209537eddeb0bd24b957d1920031601ce
+2025-05-21 19:29:52.657 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [41ms]
+2025-05-21 19:29:52.660 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [11ms]
+2025-05-21 19:29:52.660 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2025-05-21 19:29:52.660 [warning] [Repository][getDefaultBranch] Failed to get default branch details: Failed to execute git.
+2025-05-21 19:29:52.711 [info] > git merge-base refs/heads/main refs/remotes/origin/main [24ms]
+2025-05-21 19:29:52.742 [info] > git diff --name-status -z --diff-filter=ADMR 0c3eebd209537eddeb0bd24b957d1920031601ce...refs/remotes/origin/main [20ms]
+2025-05-21 19:29:52.770 [info] > git status -z -uall [15ms]
+2025-05-21 19:29:52.773 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [7ms]
+2025-05-21 19:30:21.131 [info] > git config --get commit.template [5ms]
+2025-05-21 19:30:21.132 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-05-21 19:30:21.144 [info] > git status -z -uall [6ms]
+2025-05-21 19:30:21.145 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-05-21 19:30:52.475 [info] > git config --get commit.template [16ms]
+2025-05-21 19:30:52.476 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7ms]
+2025-05-21 19:30:52.508 [info] > git status -z -uall [18ms]
+2025-05-21 19:30:52.508 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [4ms]
+2025-05-21 19:31:31.809 [info] > git config --get commit.template [23ms]
+2025-05-21 19:31:31.809 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [11ms]
+2025-05-21 19:31:31.848 [info] > git status -z -uall [22ms]
+2025-05-21 19:31:31.848 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-05-21 19:32:00.309 [info] > git check-ignore -v -z --stdin [1ms]

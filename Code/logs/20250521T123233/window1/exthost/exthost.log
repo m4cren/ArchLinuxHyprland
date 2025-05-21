@@ -1,0 +1,120 @@
+2025-05-21 12:32:36.599 [info] Extension host with pid 1690 started
+2025-05-21 12:32:36.599 [info] Skipping acquiring lock for /home/m4cren/.config/Code/User/workspaceStorage/79acb266c39fb2e91e5be7a7a9f36502.
+2025-05-21 12:32:37.320 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-05-21 12:32:37.402 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-05-21 12:32:37.441 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:typescriptreact'
+2025-05-21 12:32:37.549 [info] ExtensionService#_doActivateExtension christian-kohler.npm-intellisense, startup: false, activationEvent: 'onLanguage:typescriptreact'
+2025-05-21 12:32:38.561 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-05-21 12:32:39.488 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-05-21 12:32:39.710 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-05-21 12:32:40.410 [info] Eager extensions activated
+2025-05-21 12:32:40.780 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-05-21 12:32:40.793 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-05-21 12:32:40.878 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2025-05-21 12:32:40.960 [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+2025-05-21 12:32:42.205 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-05-21 12:32:42.378 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-05-21 12:32:42.442 [info] ExtensionService#_doActivateExtension stivo.tailwind-fold, startup: false, activationEvent: 'onStartupFinished'
+2025-05-21 12:32:42.459 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2025-05-21 12:32:42.487 [info] ExtensionService#_doActivateExtension yy0931.vscode-sqlite3-editor, startup: false, activationEvent: 'onStartupFinished'
+2025-05-21 12:32:43.352 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-21 12:32:43.369 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-21 12:33:29.856 [info] ExtensionService#_doActivateExtension vscode.simple-browser, startup: false, activationEvent: 'onOpenExternalUri:http'
+2025-05-21 12:51:24.433 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2025-05-21 13:29:59.886 [error] [vscode.typescript-language-features] provider FAILED
+2025-05-21 13:29:59.887 [error] Error: <semantic> TypeScript Server Error (5.9.0-dev.20250514)
+Debug Failure. False expression: Token end is child end
+Error: Debug Failure. False expression: Token end is child end
+    at processChildNode (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181711:17)
+    at /home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181642:9
+    at visitNode2 (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:32387:18)
+    at forEachChildInJsxAttribute (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:32765:45)
+    at forEachChild (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:32908:35)
+    at processNode (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181639:5)
+    at processChildNode (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181718:7)
+    at processChildNodes (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181761:32)
+    at /home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181655:9
+    at visitNodes (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:32392:14)
+    at forEachChildInJsxAttributes (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:32762:12)
+    at forEachChild (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:32908:35)
+    at processNode (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181639:5)
+    at processChildNode (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181718:7)
+    at /home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181642:9
+    at visitNode2 (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:32387:18)
+    at forEachChildInJsxOpeningOrSelfClosingElement (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:32880:97)
+    at forEachChild (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:32908:35)
+    at processNode (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181639:5)
+    at processChildNode (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181718:7)
+    at processChildNodes (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181761:32)
+    at /home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181655:9
+    at visitNodes (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:32392:14)
+    at forEachChildInJsxElement (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:32754:55)
+    at forEachChild (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:32908:35)
+    at processNode (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181639:5)
+    at processChildNode (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181718:7)
+    at processChildNodes (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181761:32)
+    at /home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181655:9
+    at visitNodes (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:32392:14)
+    at forEachChildInJsxFragment (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:32757:56)
+    at forEachChild (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:32908:35)
+    at processNode (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181639:5)
+    at formatSpanWorker (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181436:5)
+    at /home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181376:105
+    at getFormattingScanner (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:180148:15)
+    at Object.formatNodeGivenIndentation (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181376:10)
+    at getFormattedTextOfNode (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:179550:43)
+    at format (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:179531:27)
+    at computeNewText (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:179532:217)
+    at /home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:179493:25
+    at mapDefined (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:2607:22)
+    at /home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:179490:28
+    at mapDefined (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:2607:22)
+    at Object.getTextChangesFromChanges (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:179484:12)
+    at _ChangeTracker.getChanges (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:179381:35)
+    at _ChangeTracker.with (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:178860:20)
+    at Object.getCodeActionsToWrapJsxInFragment [as getCodeActions] (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:166002:62)
+    at /home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:154904:46
+    at flatMap (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:2537:17)
+    at Object.getFixes (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:154904:10)
+    at /home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:153168:33
+    at flatMap (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:2537:17)
+    at Object.getCodeFixesAtPosition (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:153166:12)
+    at IpcIOSession.getCodeFixes (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:196159:50)
+    at getCodeFixes (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:194164:43)
+    at /home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:196478:15
+    at IpcIOSession.executeWithRequestId (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:196467:14)
+    at IpcIOSession.executeCommand (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:196476:29)
+    at IpcIOSession.onMessage (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:196524:68)
+    at process.<anonymous> (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/_tsserver.js:519:14)
+    at process.emit (node:events:524:28)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+	at n.create (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:2:496515)
+	at y.dispatchResponse (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:2:490107)
+	at y.dispatchMessage (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:2:488548)
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:2:488041)
+	at ChildProcess.emit (node:events:524:28)
+	at ChildProcess.emit (node:domain:489:12)
+	at emit (node:internal/child_process:950:14)
+	at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2025-05-21 14:43:29.207 [error] [vscode.typescript-language-features] provider FAILED
+2025-05-21 14:43:29.207 [error] Error: DisposableStore is missing...
+	at L2.l (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:145:141736)
+	at L2.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:145:141229)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-05-21 15:17:34.035 [info] Extension host terminating: renderer closed the MessagePort
+2025-05-21 15:17:34.132 [error] An error occurred when deactivating the extension 'stivo.tailwind-fold':
+2025-05-21 15:17:34.132 [error] TypeError: Cannot destructure property 'subscriptions' of 'undefined' as it is undefined.
+	at Object.deactivate (/home/m4cren/.vscode/extensions/stivo.tailwind-fold-0.2.0/out/extension.js:38:23)
+	at PJ.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:123:11724)
+	at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:123:9874
+	at Array.map (<anonymous>)
+	at PJ.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:123:9862)
+	at PJ.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:123:10105)
+	at v2.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:1434)
+	at us (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:225:5702)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:225:2249)
+	at MessagePortMain.emit (node:events:524:28)
+	at MessagePortMain.emit (node:domain:489:12)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-05-21 15:17:34.159 [info] Extension host with pid 1690 exiting with code 0

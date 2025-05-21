@@ -1,0 +1,35 @@
+2025-05-21 21:57:19.401 [info] [main] Log level: Info
+2025-05-21 21:57:19.402 [info] [main] Validating found git in: "git"
+2025-05-21 21:57:19.402 [info] [main] Using git "2.49.0" from "git"
+2025-05-21 21:57:19.402 [info] [Model][doInitialScan] Initial repository scan started
+2025-05-21 21:57:19.402 [info] > git rev-parse --show-toplevel [14ms]
+2025-05-21 21:57:19.402 [info] > git rev-parse --git-dir --git-common-dir [7ms]
+2025-05-21 21:57:19.402 [info] [Model][openRepository] Opened repository (path): /home/m4cren/webDev/MetaFeast
+2025-05-21 21:57:19.402 [info] [Model][openRepository] Opened repository (real path): /home/m4cren/webDev/MetaFeast
+2025-05-21 21:57:19.404 [info] > git rev-parse --show-toplevel [9ms]
+2025-05-21 21:57:19.571 [info] > git config --get commit.template [170ms]
+2025-05-21 21:57:19.614 [info] > git rev-parse --show-toplevel [44ms]
+2025-05-21 21:57:22.062 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2450ms]
+2025-05-21 21:57:22.357 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/m4cren/webDev/MetaFeast/.git/refs/remotes/origin/main'
+2025-05-21 21:57:22.360 [info] > git rev-parse --show-toplevel [386ms]
+2025-05-21 21:57:22.760 [info] > git rev-parse refs/remotes/origin/main [403ms]
+2025-05-21 21:57:23.211 [info] > git check-ignore -v -z --stdin [292ms]
+2025-05-21 21:57:23.227 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [378ms]
+2025-05-21 21:57:23.229 [info] > git rev-parse --show-toplevel [485ms]
+2025-05-21 21:57:23.454 [info] > git rev-parse --show-toplevel [104ms]
+2025-05-21 21:57:23.463 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-05-21 21:57:23.614 [info] > git show --textconv :client/vite.config.ts [123ms]
+2025-05-21 21:57:23.616 [info] > git ls-files --stage -- client/vite.config.ts [104ms]
+2025-05-21 21:57:23.793 [info] > git cat-file -s 66da1a8ab9c904c6b8a3b994b46a6b09f996586d [123ms]
+2025-05-21 21:57:27.377 [info] > git status -z -uall [4601ms]
+2025-05-21 21:57:27.428 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [17ms]
+2025-05-21 21:57:27.478 [info] > git config --get --local branch.main.vscode-merge-base [23ms]
+2025-05-21 21:57:27.512 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [17ms]
+2025-05-21 21:57:27.526 [info] > git config --get commit.template [49ms]
+2025-05-21 21:57:27.563 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [25ms]
+2025-05-21 21:57:27.564 [info] > git merge-base refs/heads/main refs/remotes/origin/main [39ms]
+2025-05-21 21:57:27.593 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/m4cren/webDev/MetaFeast/.git/refs/remotes/origin/main'
+2025-05-21 21:57:27.627 [info] > git rev-parse refs/remotes/origin/main [34ms]
+2025-05-21 21:57:27.668 [info] > git diff --name-status -z --diff-filter=ADMR 4392efc3221defcb76f87ce64fbbde73b8f2982a...refs/remotes/origin/main [86ms]
+2025-05-21 21:57:27.671 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-05-21 21:57:29.649 [info] > git status -z -uall [2010ms]

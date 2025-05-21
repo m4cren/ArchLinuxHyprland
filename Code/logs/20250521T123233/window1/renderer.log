@@ -1,0 +1,159 @@
+2025-05-21 12:32:34.815 [info] Started local extension host with pid 1690.
+2025-05-21 12:32:35.012 [info] ComputeTargetPlatform: linux-x64
+2025-05-21 12:32:41.815 [info] Auto updating outdated extensions. bradlc.vscode-tailwindcss
+2025-05-21 12:32:43.096 [info] Settings Sync: Token updated for the account m4cren
+2025-05-21 12:32:43.150 [info] Settings Sync: Account status changed from uninitialized to available
+2025-05-21 12:32:43.455 [info] [perf] Render performance baseline is 92ms
+2025-05-21 13:29:59.890 [error] <semantic> TypeScript Server Error (5.9.0-dev.20250514)
+Debug Failure. False expression: Token end is child end
+Error: Debug Failure. False expression: Token end is child end
+    at processChildNode (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181711:17)
+    at /home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181642:9
+    at visitNode2 (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:32387:18)
+    at forEachChildInJsxAttribute (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:32765:45)
+    at forEachChild (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:32908:35)
+    at processNode (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181639:5)
+    at processChildNode (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181718:7)
+    at processChildNodes (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181761:32)
+    at /home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181655:9
+    at visitNodes (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:32392:14)
+    at forEachChildInJsxAttributes (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:32762:12)
+    at forEachChild (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:32908:35)
+    at processNode (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181639:5)
+    at processChildNode (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181718:7)
+    at /home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181642:9
+    at visitNode2 (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:32387:18)
+    at forEachChildInJsxOpeningOrSelfClosingElement (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:32880:97)
+    at forEachChild (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:32908:35)
+    at processNode (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181639:5)
+    at processChildNode (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181718:7)
+    at processChildNodes (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181761:32)
+    at /home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181655:9
+    at visitNodes (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:32392:14)
+    at forEachChildInJsxElement (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:32754:55)
+    at forEachChild (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:32908:35)
+    at processNode (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181639:5)
+    at processChildNode (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181718:7)
+    at processChildNodes (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181761:32)
+    at /home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181655:9
+    at visitNodes (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:32392:14)
+    at forEachChildInJsxFragment (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:32757:56)
+    at forEachChild (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:32908:35)
+    at processNode (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181639:5)
+    at formatSpanWorker (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181436:5)
+    at /home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181376:105
+    at getFormattingScanner (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:180148:15)
+    at Object.formatNodeGivenIndentation (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181376:10)
+    at getFormattedTextOfNode (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:179550:43)
+    at format (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:179531:27)
+    at computeNewText (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:179532:217)
+    at /home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:179493:25
+    at mapDefined (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:2607:22)
+    at /home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:179490:28
+    at mapDefined (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:2607:22)
+    at Object.getTextChangesFromChanges (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:179484:12)
+    at _ChangeTracker.getChanges (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:179381:35)
+    at _ChangeTracker.with (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:178860:20)
+    at Object.getCodeActionsToWrapJsxInFragment [as getCodeActions] (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:166002:62)
+    at /home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:154904:46
+    at flatMap (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:2537:17)
+    at Object.getFixes (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:154904:10)
+    at /home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:153168:33
+    at flatMap (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:2537:17)
+    at Object.getCodeFixesAtPosition (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:153166:12)
+    at IpcIOSession.getCodeFixes (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:196159:50)
+    at getCodeFixes (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:194164:43)
+    at /home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:196478:15
+    at IpcIOSession.executeWithRequestId (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:196467:14)
+    at IpcIOSession.executeCommand (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:196476:29)
+    at IpcIOSession.onMessage (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:196524:68)
+    at process.<anonymous> (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/_tsserver.js:519:14)
+    at process.emit (node:events:524:28)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21): Error: <semantic> TypeScript Server Error (5.9.0-dev.20250514)
+Debug Failure. False expression: Token end is child end
+Error: Debug Failure. False expression: Token end is child end
+    at processChildNode (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181711:17)
+    at /home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181642:9
+    at visitNode2 (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:32387:18)
+    at forEachChildInJsxAttribute (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:32765:45)
+    at forEachChild (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:32908:35)
+    at processNode (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181639:5)
+    at processChildNode (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181718:7)
+    at processChildNodes (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181761:32)
+    at /home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181655:9
+    at visitNodes (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:32392:14)
+    at forEachChildInJsxAttributes (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:32762:12)
+    at forEachChild (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:32908:35)
+    at processNode (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181639:5)
+    at processChildNode (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181718:7)
+    at /home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181642:9
+    at visitNode2 (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:32387:18)
+    at forEachChildInJsxOpeningOrSelfClosingElement (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:32880:97)
+    at forEachChild (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:32908:35)
+    at processNode (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181639:5)
+    at processChildNode (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181718:7)
+    at processChildNodes (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181761:32)
+    at /home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181655:9
+    at visitNodes (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:32392:14)
+    at forEachChildInJsxElement (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:32754:55)
+    at forEachChild (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:32908:35)
+    at processNode (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181639:5)
+    at processChildNode (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181718:7)
+    at processChildNodes (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181761:32)
+    at /home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181655:9
+    at visitNodes (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:32392:14)
+    at forEachChildInJsxFragment (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:32757:56)
+    at forEachChild (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:32908:35)
+    at processNode (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181639:5)
+    at formatSpanWorker (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181436:5)
+    at /home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181376:105
+    at getFormattingScanner (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:180148:15)
+    at Object.formatNodeGivenIndentation (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:181376:10)
+    at getFormattedTextOfNode (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:179550:43)
+    at format (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:179531:27)
+    at computeNewText (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:179532:217)
+    at /home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:179493:25
+    at mapDefined (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:2607:22)
+    at /home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:179490:28
+    at mapDefined (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:2607:22)
+    at Object.getTextChangesFromChanges (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:179484:12)
+    at _ChangeTracker.getChanges (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:179381:35)
+    at _ChangeTracker.with (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:178860:20)
+    at Object.getCodeActionsToWrapJsxInFragment [as getCodeActions] (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:166002:62)
+    at /home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:154904:46
+    at flatMap (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:2537:17)
+    at Object.getFixes (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:154904:10)
+    at /home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:153168:33
+    at flatMap (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:2537:17)
+    at Object.getCodeFixesAtPosition (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:153166:12)
+    at IpcIOSession.getCodeFixes (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:196159:50)
+    at getCodeFixes (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:194164:43)
+    at /home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:196478:15
+    at IpcIOSession.executeWithRequestId (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:196467:14)
+    at IpcIOSession.executeCommand (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:196476:29)
+    at IpcIOSession.onMessage (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:196524:68)
+    at process.<anonymous> (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/_tsserver.js:519:14)
+    at process.emit (node:events:524:28)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+	at n.create (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:2:496515)
+	at y.dispatchResponse (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:2:490107)
+	at y.dispatchMessage (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:2:488548)
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:2:488041)
+	at ChildProcess.emit (node:events:524:28)
+	at ChildProcess.emit (node:domain:489:12)
+	at emit (node:internal/child_process:950:14)
+	at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2025-05-21 14:43:29.173 [error] Error: file:///home/m4cren/webDev/GameHub/client/src/contexts/ThemeContextProvider.tsx has changed in the meantime
+    at qnt.q (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2165:15089)
+    at qnt.apply (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2165:15949)
+    at Jnt.o (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2165:19057)
+    at Jnt.perform (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2165:18493)
+    at Xnt.apply (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2165:20369)
+    at Lqt.$tryApplyWorkspaceEdit (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1257:4135)
+    at V0t.S (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3272:40354)
+    at V0t.Q (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3272:40132)
+    at V0t.M (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3272:39220)
+    at V0t.L (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3272:38457)
+2025-05-21 14:43:29.180 [warning] IGNORING workspace edit: Error: file:///home/m4cren/webDev/GameHub/client/src/contexts/ThemeContextProvider.tsx has changed in the meantime

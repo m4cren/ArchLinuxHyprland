@@ -1,0 +1,82 @@
+2025-05-21 19:57:48.305 [info] Extension host with pid 2241 started
+2025-05-21 19:57:48.305 [info] Skipping acquiring lock for /home/m4cren/.config/Code/User/workspaceStorage/79acb266c39fb2e91e5be7a7a9f36502.
+2025-05-21 19:57:48.941 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-05-21 19:57:49.030 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-05-21 19:57:49.064 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:typescriptreact'
+2025-05-21 19:57:49.153 [info] ExtensionService#_doActivateExtension christian-kohler.npm-intellisense, startup: false, activationEvent: 'onLanguage:typescriptreact'
+2025-05-21 19:57:50.426 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-05-21 19:57:50.591 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-05-21 19:57:50.770 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-05-21 19:57:51.572 [info] Eager extensions activated
+2025-05-21 19:57:51.774 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-05-21 19:57:51.782 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-05-21 19:57:51.872 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2025-05-21 19:57:52.104 [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+2025-05-21 19:57:53.556 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-05-21 19:57:53.831 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-05-21 19:57:53.938 [info] ExtensionService#_doActivateExtension stivo.tailwind-fold, startup: false, activationEvent: 'onStartupFinished'
+2025-05-21 19:57:53.953 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2025-05-21 19:57:53.979 [info] ExtensionService#_doActivateExtension yy0931.vscode-sqlite3-editor, startup: false, activationEvent: 'onStartupFinished'
+2025-05-21 19:57:55.170 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-21 19:57:55.212 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-21 19:58:12.088 [info] ExtensionService#_doActivateExtension vscode.simple-browser, startup: false, activationEvent: 'onOpenExternalUri:http'
+2025-05-21 20:35:46.558 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2025-05-21 21:13:32.257 [error] [vscode.typescript-language-features] provider FAILED
+2025-05-21 21:13:32.257 [error] Error: DisposableStore is missing...
+	at L2.l (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:145:141736)
+	at L2.resolveCompletionItem (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:145:141229)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-05-21 21:13:33.380 [error] Actual command not found, wanted to execute _typescript.applyCompletionCommand /191597 __vsc3790de3f-00be-42f9-b4e3-8457f4e0df31 undefined
+2025-05-21 21:14:49.806 [error] [vscode.typescript-language-features] provider FAILED
+2025-05-21 21:14:49.806 [error] Error: <semantic> TypeScript Server Error (5.9.0-dev.20250514)
+Debug Failure. False expression: Expected symbol to be a module
+Error: Debug Failure. False expression: Expected symbol to be a module
+    at Object.addImportForModuleSymbol (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:158060:11)
+    at /home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:147761:19
+    at Map.forEach (<anonymous>)
+    at addTargetFileImports (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:147754:17)
+    at /home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:182845:7
+    at ConfiguredProject2.runWithTemporaryFileUpdate (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:188370:7)
+    at pasteEdits (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:182825:55)
+    at /home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:182810:118
+    at _ChangeTracker.with (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:178859:5)
+    at Object.pasteEditsProvider (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:182810:60)
+    at Object.getPasteEdits (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:152909:34)
+    at IpcIOSession.getPasteEdits (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:196100:49)
+    at getPasteEdits (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:194214:43)
+    at /home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:196478:15
+    at IpcIOSession.executeWithRequestId (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:196467:14)
+    at IpcIOSession.executeCommand (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:196476:29)
+    at IpcIOSession.onMessage (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/typescript.js:196524:68)
+    at process.<anonymous> (/home/m4cren/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250514/node_modules/typescript/lib/_tsserver.js:519:14)
+    at process.emit (node:events:524:28)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+	at n.create (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:2:496515)
+	at y.dispatchResponse (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:2:490107)
+	at y.dispatchMessage (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:2:488548)
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:2:488041)
+	at ChildProcess.emit (node:events:524:28)
+	at ChildProcess.emit (node:domain:489:12)
+	at emit (node:internal/child_process:950:14)
+	at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2025-05-21 21:28:52.597 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2025-05-21 21:28:58.026 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-05-21 21:31:48.622 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2025-05-21 21:31:49.802 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2025-05-21 23:00:34.616 [info] Extension host terminating: renderer closed the MessagePort
+2025-05-21 23:00:34.695 [error] An error occurred when deactivating the extension 'stivo.tailwind-fold':
+2025-05-21 23:00:34.696 [error] TypeError: Cannot destructure property 'subscriptions' of 'undefined' as it is undefined.
+	at Object.deactivate (/home/m4cren/.vscode/extensions/stivo.tailwind-fold-0.2.0/out/extension.js:38:23)
+	at PJ.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:123:11724)
+	at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:123:9874
+	at Array.map (<anonymous>)
+	at PJ.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:123:9862)
+	at PJ.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:123:10105)
+	at v2.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:1434)
+	at us (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:225:5702)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:225:2249)
+	at MessagePortMain.emit (node:events:524:28)
+	at MessagePortMain.emit (node:domain:489:12)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-05-21 23:00:34.745 [info] Extension host with pid 2241 exiting with code 0

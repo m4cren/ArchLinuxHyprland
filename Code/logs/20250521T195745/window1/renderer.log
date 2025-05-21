@@ -1,0 +1,20 @@
+2025-05-21 19:57:46.943 [info] Started local extension host with pid 2241.
+2025-05-21 19:57:47.223 [info] ComputeTargetPlatform: linux-x64
+2025-05-21 19:57:53.362 [error] Error while getting the latest version for the extension burkeholland.simple-react-snippets from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed to fetch
+2025-05-21 19:57:55.677 [info] Settings Sync: Token updated for the account m4cren
+2025-05-21 19:57:55.726 [info] Settings Sync: Account status changed from uninitialized to available
+2025-05-21 19:57:56.849 [info] [perf] Render performance baseline is 146ms
+2025-05-21 21:13:32.183 [error] Error: file:///home/m4cren/webDev/GameHub/client/src/contexts/WindowSizeConetxtProvider.tsx has changed in the meantime
+    at qnt.q (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2165:15089)
+    at qnt.apply (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2165:15949)
+    at Jnt.o (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2165:19057)
+    at Jnt.perform (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2165:18493)
+    at Xnt.apply (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2165:20369)
+    at Lqt.$tryApplyWorkspaceEdit (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1257:4135)
+    at V0t.S (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3272:40354)
+    at V0t.Q (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3272:40132)
+    at V0t.M (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3272:39220)
+    at V0t.L (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3272:38457)
+2025-05-21 21:13:32.183 [warning] IGNORING workspace edit: Error: file:///home/m4cren/webDev/GameHub/client/src/contexts/WindowSizeConetxtProvider.tsx has changed in the meantime
+2025-05-21 21:13:33.381 [error] Actual command not found, wanted to execute _typescript.applyCompletionCommand /191597: Error: Actual command not found, wanted to execute _typescript.applyCompletionCommand /191597
+	at Wb.h (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:41878)

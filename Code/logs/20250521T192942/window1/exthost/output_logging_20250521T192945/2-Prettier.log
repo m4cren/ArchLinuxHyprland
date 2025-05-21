@@ -1,0 +1,46 @@
+["INFO" - 7:29:51 PM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 7:29:51 PM] Extension Version: 11.0.0.
+["INFO" - 7:30:45 PM] Formatting file:///home/m4cren/webDev/GameHub/client/src/components/navbar/DarkMode.tsx
+["INFO" - 7:30:45 PM] Using config file at /home/m4cren/webDev/GameHub/client/.prettierrc
+["INFO" - 7:30:45 PM] PrettierInstance:
+{
+  "modulePath": "/home/m4cren/webDev/GameHub/client/node_modules/prettier/index.cjs",
+  "messageResolvers": {},
+  "version": "3.5.3"
+}
+["INFO" - 7:30:45 PM] Using ignore file (if present) at /home/m4cren/webDev/GameHub/.prettierignore
+["INFO" - 7:30:45 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 7:30:45 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 7:30:45 PM] Prettier Options:
+{
+  "filepath": "/home/m4cren/webDev/GameHub/client/src/components/navbar/DarkMode.tsx",
+  "parser": "typescript",
+  "tabWidth": 4
+}
+["INFO" - 7:30:46 PM] Formatting completed in 131ms.
+["INFO" - 7:31:30 PM] Formatting file:///home/m4cren/webDev/GameHub/client/src/components/navbar/SearchBar.tsx
+["INFO" - 7:31:30 PM] Using config file at /home/m4cren/webDev/GameHub/client/.prettierrc
+["INFO" - 7:31:30 PM] PrettierInstance:
+{
+  "modulePath": "/home/m4cren/webDev/GameHub/client/node_modules/prettier/index.cjs",
+  "messageResolvers": {},
+  "version": "3.5.3"
+}
+["INFO" - 7:31:30 PM] Using ignore file (if present) at /home/m4cren/webDev/GameHub/.prettierignore
+["INFO" - 7:31:30 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 7:31:30 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 7:31:30 PM] Prettier Options:
+{
+  "filepath": "/home/m4cren/webDev/GameHub/client/src/components/navbar/SearchBar.tsx",
+  "parser": "typescript",
+  "tabWidth": 4
+}
+["INFO" - 7:31:30 PM] Formatting completed in 12ms.

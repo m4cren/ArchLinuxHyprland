@@ -1,0 +1,10 @@
+2025-05-22 01:39:29.780 [info] Started local extension host with pid 7209.
+2025-05-22 01:39:29.823 [info] ComputeTargetPlatform: linux-x64
+2025-05-22 01:39:32.590 [info] Settings Sync: Token updated for the account m4cren
+2025-05-22 01:39:32.684 [info] Settings Sync: Account status changed from uninitialized to available
+2025-05-22 01:39:32.817 [info] [perf] Render performance baseline is 51ms
+2025-05-22 01:43:10.242 [error] [Extension Host] Error: Git error
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:601154)
+	at ChildProcess.emit (node:events:536:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-22 01:43:11.519 [error] An unknown error occurred. Please consult the log for more details.

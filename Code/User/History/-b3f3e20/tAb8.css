@@ -1,0 +1,21 @@
+.main {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 12rem 1fr;
+    grid-template-areas: "   nav     ", "   main    ";
+
+    @media (min-width: 810px) {
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 15rem;
+        grid-template-areas: "   nav     ", "   main    ";
+    }
+}
+nav {
+    grid-area: nav;
+}
+aside {
+    grid-area: aside;
+}
+main {
+    grid-area: main;
+}

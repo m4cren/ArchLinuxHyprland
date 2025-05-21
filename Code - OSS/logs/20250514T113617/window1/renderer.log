@@ -1,0 +1,5 @@
+2025-05-14 11:36:18.783 [info] Started local extension host with pid 1618.
+2025-05-14 11:36:19.013 [info] ComputeTargetPlatform: linux-x64
+2025-05-14 11:36:23.802 [info] [perf] Render performance baseline is 100ms
+2025-05-14 11:36:24.202 [error] [File Watcher] Unexpected error: inotify_add_watch on '/home/m4cren/webDev/MetaFeast/.git/.gitstatus.fjHpPB' failed: No such file or directory (EUNKNOWN) (path: /home/m4cren/webDev/MetaFeast)
+2025-05-14 11:36:24.203 [error] [File Watcher (universal)] inotify_add_watch on '/home/m4cren/webDev/MetaFeast/.git/.gitstatus.fjHpPB' failed: No such file or directory

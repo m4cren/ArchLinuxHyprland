@@ -1,2 +1,2 @@
 # ArchLinuxHyprland
-This is my hyprland .config files
+This is my hyprland .config files HyDE-Project

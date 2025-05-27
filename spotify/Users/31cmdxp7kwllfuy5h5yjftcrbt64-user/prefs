@@ -1,8 +1,0 @@
-connect.mdns_devices="[]"
-connect.dial_devices="[{\"address\":\"192.168.1.16\",\"app_state\":\"MISSING\",\"created_timestamp\":1747755432,\"device_id\":\"00000000-0000-0000-0000-38184c6ed0b8\",\"dial_location_url\":\"http://192.168.1.16:56790/dd.xml\",\"display_name\":\"KD-55X7007G\",\"last_seen\":1747755436,\"manufacturer\":\"Sony Inc.\",\"model_name\":\"Sony_KD-55X7007G\\u000a\",\"product_cap\":\"\",\"public_ip\":\"2001:4453:662:a800:55a4:923d:3076:9110\",\"wol\":{\"all_interfaces\":false,\"delay_ms\":250,\"mac\":\"44e4ee5403c1\",\"port\":9,\"retries\":240}}]"
-audio.play_bitrate_non_metered_migrated=true
-ui.track_notifications_enabled=false
-audio.play_bitrate_non_metered_enumeration=4
-audio.play_bitrate_enumeration=4
-ui.hide_hpto=true
-app.browser.zoom-level=150
